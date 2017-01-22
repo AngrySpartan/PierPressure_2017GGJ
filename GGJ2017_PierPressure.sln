@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGJ2017_PierPressure.Plugins", "GGJ2017_PierPressure.Plugins.csproj", "{99F5C52A-2690-22A6-6234-4381CDFFC759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGJ2017_PierPressure", "GGJ2017_PierPressure.csproj", "{0A68FAAE-17BF-E5A3-2381-74D96DF4EDC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGJ2017_PierPressure.Editor.Plugins", "GGJ2017_PierPressure.Editor.Plugins.csproj", "{3A7F1C09-A0CB-FBDA-64B0-54B2473238E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F5C52A-2690-22A6-6234-4381CDFFC759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F5C52A-2690-22A6-6234-4381CDFFC759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F5C52A-2690-22A6-6234-4381CDFFC759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F5C52A-2690-22A6-6234-4381CDFFC759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A68FAAE-17BF-E5A3-2381-74D96DF4EDC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A68FAAE-17BF-E5A3-2381-74D96DF4EDC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A68FAAE-17BF-E5A3-2381-74D96DF4EDC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A68FAAE-17BF-E5A3-2381-74D96DF4EDC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A7F1C09-A0CB-FBDA-64B0-54B2473238E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7F1C09-A0CB-FBDA-64B0-54B2473238E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7F1C09-A0CB-FBDA-64B0-54B2473238E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7F1C09-A0CB-FBDA-64B0-54B2473238E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
